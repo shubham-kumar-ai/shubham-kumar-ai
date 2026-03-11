@@ -1,16 +1,90 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
-<!--
-**shubham-kumar-ai/shubham-kumar-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shubham Kumar 👋
 
-Here are some ideas to get you started:
+Bioinformatics AI researcher working at the intersection of **machine learning and biological systems**.
+My work focuses on developing **AI-driven models and scalable computational pipelines for biological data analysis**, including protein sequence modeling, genomics, and multi-omics data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Interests
+
+* Machine Learning for Biological Systems
+* Protein Sequence Modeling
+* Genomics & Multi-omics Data Analysis
+* Deep Learning for Biomedical Data
+* Scalable AI Pipelines for Scientific Computing
+
+---
+
+## 🧠 Technical Skills
+
+**Programming**
+
+Python, R, Bash, Linux/Unix
+
+**Machine Learning**
+
+Scikit-learn, XGBoost, Random Forest, SVM
+
+**Deep Learning**
+
+PyTorch, TensorFlow, Keras
+CNN • RNN • GRU • BiLSTM • Transformers
+
+**Protein & AI Models**
+
+Protein Language Models (ESM, ProtBERT, ProtT5)
+
+**Bioinformatics**
+
+Protein sequence analysis
+Genomics and multi-omics data analysis
+
+**Infrastructure & Tools**
+
+Docker • Streamlit • Git • HPC Clusters (PBS)
+
+---
+
+## 🚀 Current Work
+
+* Building **AI models for biological sequence analysis**
+* Developing **scalable machine learning pipelines for biological datasets**
+* Creating **interactive bioinformatics tools using Streamlit and Docker**
+* Working on **large-scale biological data analysis using HPC systems**
+
+---
+
+## 🏆 Achievements
+
+**Best Paper Award — IEEE ICRITO 2025**
+
+Comparing CNNs and Transformers for biomedical image classification.
+
+---
+
+## 📚 Publications
+
+* *Comparing Pre-Trained CNNs and Transformers for Knee Osteoarthritis Severity Detection* — IEEE ICRITO 2025
+* *CNNs and Transformers: Unraveling Their Impact on Modern Medical Image Classification*
+
+---
+
+## 🛠 Featured Areas of Work
+
+* Artificial Intelligence for Biological Systems
+* Computational Biology
+* Machine Learning for Genomics
+* Biomedical Data Analysis
+* Scalable AI Research Pipelines
+
+---
+
+## 📫 Contact
+
+Email: **[shubham.kum3105@gmail.com](mailto:shubham.kum3105@gmail.com)**
+
+---
