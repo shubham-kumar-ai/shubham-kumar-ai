@@ -66,10 +66,28 @@ Comparing CNNs and Transformers for biomedical image classification.
 
 ---
 
-## 📚 Publications
+## 📚  Publications
 
-* *Comparing Pre-Trained CNNs and Transformers for Knee Osteoarthritis Severity Detection* — IEEE ICRITO 2025
-* *CNNs and Transformers: Unraveling Their Impact on Modern Medical Image Classification*
+**Comparing Pre-Trained CNNs and Transformers for Knee Osteoarthritis Severity Detection**
+*IEEE ICRITO 2025* — First Author
+This study evaluates the performance and representational differences between convolutional neural networks and transformer architectures for modern medical image classification.
+
+**CNNs and Transformers: Unraveling Their Impact on Modern Medical Image Classification**
+*IEEE ICRITO 2025* — Co-author
+A review exploring the evolving role of CNNs and transformer architectures in medical image analysis.
+
+**From Plants to Potential Therapeutics: Exploring Neuroprotective Properties against Alzheimer’s Disease through Molecular Docking and Molecular Dynamics Simulations**
+*Aging Pathobiology and Therapeutics* — First Author
+This work investigates plant-derived bioactive compounds as potential neuroprotective agents using molecular docking and molecular dynamics simulations.
+
+**Book Chapter — Big Data in Bioinformatics and Computational Biology: Basic Insights**
+*Methods in Molecular Biology (Springer Protocols)*
+Focuses on computational approaches for analyzing large-scale biological datasets.
+
+**Book Chapter — AI-based Protein Structure Prediction and Respective Analysis**
+*Artificial Intelligence in Cell and Genetic Engineering (Springer Protocols)*
+Discusses the role of artificial intelligence in protein structure prediction and structural bioinformatics.
+
 
 ---
 
