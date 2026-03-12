@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="shubham_ai_banner.png" width="100%" />
 </p>
 
 # Hi, I'm Shubham Kumar 👋
