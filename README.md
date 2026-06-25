@@ -2,14 +2,14 @@
   <img src="shubham_ai_banner.jpeg" width="100%" />
 </p>
 
-# Hi, I'm Shubham Kumar 👋
+# Hi, I'm Shubham Kumar 
 
 Bioinformatics AI researcher working at the intersection of **machine learning and biological systems**.
 My work focuses on developing **AI-driven models and scalable computational pipelines for biological data analysis**, including protein sequence modeling, genomics, and multi-omics data.
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 * Machine Learning for Biological Systems
 * Protein Sequence Modeling
@@ -19,7 +19,7 @@ My work focuses on developing **AI-driven models and scalable computational pipe
 
 ---
 
-## 🧠 Technical Skills
+##  Technical Skills
 
 **Programming**
 
@@ -27,7 +27,7 @@ Python, R, Bash, Linux/Unix
 
 **Machine Learning**
 
-Scikit-learn, XGBoost, Random Forest, SVM
+Scikit-learn, XGBoost, Random Forest, SVM, LightGBM
 
 **Deep Learning**
 
@@ -36,7 +36,7 @@ CNN • RNN • GRU • BiLSTM • Transformers
 
 **Protein & AI Models**
 
-Protein Language Models (ESM, ProtBERT, ProtT5)
+Protein Language Models (ESM, ProtBERT, ProtT5, AlBERT)
 
 **Bioinformatics**
 
@@ -49,7 +49,7 @@ Docker • Streamlit • Git • HPC Clusters (PBS)
 
 ---
 
-## 🚀 Current Work
+##  Current Work
 
 * Building **AI models for biological sequence analysis**
 * Developing **scalable machine learning pipelines for biological datasets**
@@ -58,7 +58,7 @@ Docker • Streamlit • Git • HPC Clusters (PBS)
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 **Best Paper Award — IEEE ICRITO 2025**
 
@@ -91,7 +91,7 @@ Discusses the role of artificial intelligence in protein structure prediction an
 
 ---
 
-## 🛠 Featured Areas of Work
+## Featured Areas of Work
 
 * Artificial Intelligence for Biological Systems
 * Computational Biology
@@ -101,7 +101,7 @@ Discusses the role of artificial intelligence in protein structure prediction an
 
 ---
 
-## 📫 Contact
+##  Contact
 
 Email: **[shubham.kum3105@gmail.com](mailto:shubham.kum3105@gmail.com)**
 
