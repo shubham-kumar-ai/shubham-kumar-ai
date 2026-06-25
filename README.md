@@ -60,7 +60,7 @@ Docker • Streamlit • Git • HPC Clusters (PBS)
 
 ## Achievements
 
-**Best Paper Award — IEEE ICRITO 2025**
+**Best Paper Award - IEEE ICRITO 2025**
 
 Comparing CNNs and Transformers for biomedical image classification.
 
